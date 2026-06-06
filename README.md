@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://punyasurana.vercel.app">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=230&section=header&text=Punya%20Surana&fontSize=56&fontColor=c0caf5&animation=fadeIn&fontAlignY=33&desc=AI%20Engineer%20%E2%80%A2%20System%20Builder%20%E2%80%A2%20Researcher&descAlignY=64&descAlign=50&descColor=9aa5ce" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=210&section=header&text=Punya%20Surana&fontSize=56&fontColor=c0caf5&animation=fadeIn&fontAlignY=25&desc=AI%20Engineer%20%E2%80%A2%20System%20Builder%20%E2%80%A2%20Researcher&descAlignY=52&descAlign=50&descColor=9aa5ce" />
 </a>
 
 <a href="https://git.io/typing-svg">
