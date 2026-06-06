@@ -66,8 +66,6 @@ Basically, I'm someone who reads the paper in the morning and has a working prot
 
 *"From papers to production."*
 
-<br/>
-
 <a href="https://punyasurana.vercel.app">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b27&height=120&section=footer"/>
 </a>
