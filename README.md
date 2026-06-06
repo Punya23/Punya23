@@ -50,11 +50,9 @@ Basically, I'm someone who reads the paper in the morning and has a working prot
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
 
 ## GitHub Stats
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Punya23&theme=dark&show_icons=true&count_private=true">
+<div align="center">
 <img alt="Streak" src="https://streak-stats.demolab.com?user=Punya23&theme=tokyonight&hide_border=true">
-<img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Punya23&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punya23&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+</div>
 
 ## Connect with me
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/punya-surana/" target="_blank">Punya Surana</a> &nbsp;|&nbsp; Email: Punyasurana23@gmail.com &nbsp;|&nbsp; 🌐 <a href="https://punyasurana.vercel.app" target="_blank">Portfolio</a></p>
