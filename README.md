@@ -8,9 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&repeat=true&random=false&width=720&lines=Building+AI-native+systems+from+the+ground+up+%F0%9F%9A%80;Multi-Agent+Architectures+%7C+LLMs+%7C+MLOps+%7C+RAG;9+Production+AI+Systems+%7C+500%2B+Users+Served;IEEE+VP+%7C+IIT+Fellowship+%7C+Rank+3%2F189+%C2%B7+CGPA+9.59" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/punya-surana)&nbsp;&nbsp;&nbsp;[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/Punya23)&nbsp;&nbsp;&nbsp;[![X](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/SuranaPunya)&nbsp;&nbsp;&nbsp;[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://punyasurana.vercel.app)&nbsp;&nbsp;&nbsp;[![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:Punyasurana23@gmail.com)
+<br/>
 
 ## About Me
 
@@ -41,8 +39,6 @@ Basically, I'm someone who reads the paper in the morning and has a working prot
 <br/>
 
 *" From papers to production. "*
-
-<br/>
 
 <a href="https://punyasurana.vercel.app">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1500,50:111111,100:000000&height=120&section=footer"/>
