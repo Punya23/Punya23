@@ -10,44 +10,28 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/punya-surana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://punyasurana.vercel.app)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/punyasurana)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SuranaPunya)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Punyasurana23@gmail.com)
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/punya-surana)&nbsp;&nbsp;&nbsp;[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/Punya23)&nbsp;&nbsp;&nbsp;[![X](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/SuranaPunya)&nbsp;&nbsp;&nbsp;[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://punyasurana.vercel.app)&nbsp;&nbsp;&nbsp;[![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:Punyasurana23@gmail.com)
+
+</div>
 
 ## About Me
 I'm Punya Surana, an AI/ML engineer passionate about building intelligent systems that actually ship not just notebooks that look good. I enjoy working at the intersection of applied research and production engineering, designing multiagent pipelines, wiring up LLM systems, and deploying end to end AI that serves real users. I'm also deeply interested in Explainable AI, MultiAgent RL, and the kind of automation that genuinely changes how things work.
 Basically, I'm someone who reads the paper in the morning and has a working prototype by night.
 
-## My Skills
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000">
-<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+## 🛠️ Technical Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c&theme=dark" height="50" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="50" alt="AI & ML" />
+  
+  <br />
+  
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,express,react,nextjs&theme=dark" height="50" alt="Backend & Frontend" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,linux,git&theme=dark" height="50" alt="Databases & Infrastructure" />
+</div>
 
 ## GitHub Stats
 <div align="center">
